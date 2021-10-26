@@ -1,2 +1,11 @@
-# animated-hello-world
-Small experiment on animating "hello world" with text only
+<div align=center>
+
+# Animated hello world
+
+</div>
+
+This repository contains a very small piece of Go code that animates "hello world" only using ascii text. Feel free to give it a try!
+
+```bash
+go run main.go
+```
